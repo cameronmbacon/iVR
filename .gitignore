@@ -55,5 +55,10 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+.env*
 
+# coveralls config file
+.coveralls.yml
+
+# development keys file
+dev.js
